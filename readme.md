@@ -6,4 +6,4 @@ This is a project will display random messages each time it is run.
 
 ----------------------------------------------------------------
 
-* That was developed by me, Juan Diego Jean Pier :) *
+** That was developed by me, Juan Diego Jean Pier :) **
